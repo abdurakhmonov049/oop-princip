@@ -1,0 +1,1 @@
+Inheritance - meros qilib olish ota klassdagi funksiyalarni bola funksiyaga berishi bitta katta class qilib undan bolalari foydalanilishi.Bir klassdan boshqa klass kelib chiqishi.

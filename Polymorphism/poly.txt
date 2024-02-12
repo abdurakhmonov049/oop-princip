@@ -1,0 +1,1 @@
+Polymorphism - Interface classini yaratamiz va uning ichida bir funksiya yaratib boshqa implement classlarni ichida shu classni ishlatish objectlar shakllarga aylanishi

@@ -1,0 +1,2 @@
+Encapsulation - Bu shaxsiy berkitish Tashqariga ma'lumotlarni chiqarmaslik O'zini holatini object private saqlaydi ammo Tashqariga public methodlarni chiqarish
+

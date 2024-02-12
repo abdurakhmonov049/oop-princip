@@ -1,0 +1,1 @@
+Abstraction - Ichkarida bo'layotgan logikani tashqariga chiqarmaslik biza uchun telefon ichidagi,bankomat ichidagi narsa abstract holat ichkarida nima bo'layotganini bilmaymiz
